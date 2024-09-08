@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:anime/src/config.dart';
+import 'package:mvvm_setup/src/config.dart';
 
 class TextView extends ConsumerWidget {
   const TextView({

@@ -1,1 +1,1 @@
-export 'package:anime/view/components/custom_text.dart';
+export 'package:mvvm_setup/view/components/custom_text.dart';

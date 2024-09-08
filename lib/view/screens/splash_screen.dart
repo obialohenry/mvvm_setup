@@ -1,5 +1,5 @@
-import 'package:anime/src/components.dart';
-import 'package:anime/src/config.dart';
+import 'package:mvvm_setup/src/components.dart';
+import 'package:mvvm_setup/src/config.dart';
 
 import 'package:flutter/material.dart';
 

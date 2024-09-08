@@ -1,4 +1,4 @@
-import 'package:anime/src/utils.dart';
+import 'package:mvvm_setup/src/utils.dart';
 
 class CustomButtonState {
   CustomButtonState({required this.buttonState, this.text});

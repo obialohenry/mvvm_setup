@@ -1,5 +1,5 @@
-import 'package:anime/src/config.dart';
-import 'package:anime/src/screens.dart';
+import 'package:mvvm_setup/src/config.dart';
+import 'package:mvvm_setup/src/screens.dart';
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
